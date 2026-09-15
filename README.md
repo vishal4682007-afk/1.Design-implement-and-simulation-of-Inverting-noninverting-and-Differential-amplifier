@@ -126,6 +126,12 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
   **TABULATION:**
   <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/c17070c6-fe87-4a10-af47-ce192edd2c08" />
+  **GRAPH:**
+  <img width="1080" height="1534" alt="WhatsApp Image 2026-09-15 at 7 11 43 PM" src="https://github.com/user-attachments/assets/a7f15edf-ba26-4ec3-9d9d-a9483a918b81" />
+  ![Uploading WhatsApp Image 2026-09-15 at 7.11.58 PM.jpeg…]()
+
+
+  
 
 
 **LT-SPICE Tool:PROCEDURE:**
