@@ -73,36 +73,60 @@ Choose R1 = 1kΩ, Rf=10kΩ
 7.	Plot the graph of the input wave versus output wave for any one practical case.
  
 **PIN DIAGRAM:**
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 6 55 49 PM" src="https://github.com/user-attachments/assets/11ea2211-61f9-4524-8d8a-3b674ac262b9" />
+
 
 **INVERTING AMPLIFIER:**
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 6 56 22 PM" src="https://github.com/user-attachments/assets/1503b6d6-c287-4ecd-a6e6-62787409e8cd" />
+
   **CIRCUIT DIAGRAM**
+  <img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 6 56 35 PM" src="https://github.com/user-attachments/assets/e2e0eeda-8bed-48c0-a027-4c589e06071c" />
+
 
 
   **MODEL GRAPH:**
+  <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/e18811de-a362-4a18-b1f4-0a1245fdac58" />
+
 
 
   **TABULATION:**
+  <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/a83d1345-081a-4d3a-a52c-5292abbac309" />
+
  
 
 **MODEL CALCULATION:**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/4a9dc24a-d5ec-4673-a81b-f12a04c9b242" />
+
 
 **NON INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+  <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/1f7295d0-17b6-45de-af29-5b519f7cc69c" />
+
 
 
   **MODEL GRAPH:**
+  <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/fb2f2d6d-51a9-4580-b2a5-21e88a744dcf" />
+
 
 
   **TABULATION:**
+  <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/f93ba5a8-fbcd-457a-8b2a-db67c7abf26d" />
+
 
   **DIFFERENTIAL AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+  <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/6103f2ae-195d-40a9-a43c-0ef5361097a5" />
+
 
 
   **MODEL GRAPH:**
+  <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/0e51ca5a-d904-435d-84f7-dd83765269c5" />
+
 
 
   **TABULATION:**
+  <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/c17070c6-fe87-4a10-af47-ce192edd2c08" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -115,6 +139,8 @@ Choose R1 = 1kΩ, Rf=10kΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+  <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/36163114-25a6-44e1-b121-ab205e3cb96f" />
+
   
 
 **RESULT:**
